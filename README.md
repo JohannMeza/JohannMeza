@@ -16,9 +16,9 @@
 </pre>
 
 &emsp;
-## 🤝 Contactame
+## 🤝 Contáctame
 -------------------
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Mis redes sociales:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/johann-meza" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="johannmeza" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/29660151/johan-meza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
@@ -29,7 +29,7 @@
 
 ## 🛠️ My Skills
 -------------------
-### Programming languages:
+### Lenguajes de Programación:
 &emsp;
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
@@ -47,6 +47,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+
 ### Herramientas:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
@@ -58,7 +59,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia)
 
-### Services & Frameworks: 
+### Servicios & Frameworks: 
 &emsp;
 ![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 ![Niubuz](https://img.shields.io/badge/Niubiz-black?style=flat&logo=visual%20studio)
@@ -66,7 +67,7 @@
 ![Stripe](https://img.shields.io/badge/Stripe-black?style=flat&logo=stripe)
 ![WordPress](https://img.shields.io/badge/WordPress-black?logo=wordpress)
 
-### Databases:
+### Base de Datos:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
