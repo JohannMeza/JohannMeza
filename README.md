@@ -35,7 +35,7 @@
 -------------------
 ### Programming languages:
 &emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![GO](https://img.shields.io/badge/-GO-000?&logo=Go)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
@@ -46,17 +46,15 @@
 ![LWC](https://img.shields.io/badge/-LWC-000?&logo=Salesforce)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![PineScript](https://img.shields.io/badge/-PineScript-000?&logo=TradingView)
-### Frontend development:
+### Desarrollo Front-End:
 &emsp;
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-000?&logo=Chakra-UI)
+![Static Badge](https://img.shields.io/badge/Vue%20JS-black?logo=Vue.js)
+![Static Badge](https://img.shields.io/badge/Material%20UI-black?logo=MUI)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
 ### Misc tools:
 &emsp;
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
