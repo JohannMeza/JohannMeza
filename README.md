@@ -20,8 +20,8 @@
 -------------------
 <h3 align="center">Mis redes sociales:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/johann-meza" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="johannmeza" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/29660151/johan-meza" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/johann-meza" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="johannmeza" height="50" width="50" /></a>
+<a href="https://stackoverflow.com/users/29660151/johan-meza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
 
 &emsp;
 
@@ -81,4 +81,5 @@
 
 ## 🛠️ Support
 -------------------
-<p align="center"><a href="https://www.buymeacoffee.com/scar2001"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+
+<p align="center"><a href="https://buymeacoffee.com/johannmeza" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
