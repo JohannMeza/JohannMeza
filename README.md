@@ -18,20 +18,19 @@
 &emsp;
 ## 🤝 Contáctame
 -------------------
-<h3 align="center">Mis redes sociales:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/johann-meza" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="johannmeza" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/29660151/johan-meza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
 
+<p>
+<a href="https://www.linkedin.com/in/johann-meza" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="johannmeza" height="50" width="50"  /></a>
+<a href="https://stackoverflow.com/users/29660151/johan-meza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
+</p>
 &emsp;
 
 
 
-## 🛠️ My Skills
+## 🛠️ Tecnologias
 -------------------
 ### Lenguajes de Programación:
 &emsp;
-
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
@@ -79,7 +78,8 @@
 &emsp;
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 
-## 🛠️ Support
+## 🆘 Soporte
 -------------------
 
 <p align="center"><a href="https://buymeacoffee.com/johannmeza" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="scar2001" /></a></p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
